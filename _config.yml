@@ -1,4 +1,4 @@
-timezone:    Europe/Berlin
+timezone:    United States/Chicago
 future:      false
 # Set baseurl to the base path of the site eg "/mytalk"
 baseurl:     "/github-slideshow"
