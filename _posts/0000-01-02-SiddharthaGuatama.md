@@ -1,7 +1,8 @@
-timezone:    Europe/Berlin
+timezone:    United States/Chicago
 future:      false
 # Set baseurl to the base path of the site eg "/mytalk"
 baseurl:     "/github-slideshow"
+# To thine own self be true.
 # The allowed values are 'rouge', 'pygments' or null.
 highlighter: rouge
 # markdown - Valid options are [ maruku | rdiscount | kramdown | redcarpet ]
